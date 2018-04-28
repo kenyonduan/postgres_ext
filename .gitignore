@@ -21,5 +21,6 @@ bin/
 .ruby-version
 .ruby-gemset
 gemfiles/*.lock
+.idea
 
 spec/dummy/config/database.yml
